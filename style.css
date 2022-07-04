@@ -22,7 +22,25 @@ body{
     margin: 0%;
     padding-left: 2%;
     padding-right: 2%;
-    
+}
+.f8{
+    width: 60%;
+    padding-right: 10%;
+    padding-left: 15%;
+    padding-bottom: 0%;
+}
+.f8-png{
+    display: block;
+}
+.about-me{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 2%;
+}
+.about-title{
+    font-size: 32px;
+    font-weight: 900;
+    padding-bottom: 2%;
 }
 .skip{
     color: #FC8A46;
@@ -38,7 +56,16 @@ body{
     font-weight: 600;
     text-decoration: none;
     background-image: repeating-linear-gradient(#FD4E30, #FB8E48);
-    padding: 20px 40px;
+    padding: 15px 40px;
     border-radius: 100px;
-    
+}
+.about-sub{
+    color: black;
+    padding-bottom: 10%;
+}
+.about-bg{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    padding-top: 1px;
+    padding-bottom: 0%;
 }
