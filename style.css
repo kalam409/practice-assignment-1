@@ -125,3 +125,15 @@ body{
     margin: 0%;
     font-size: 14px;
 }
+.eat-fresh{
+    text-align: center;
+    color: rgb(212, 212, 212);
+}
+.eat{
+    color: #FC8A46;
+}
+footer{
+    background-color: #0B0D17;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
