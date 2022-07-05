@@ -69,3 +69,25 @@ body{
     padding-top: 1px;
     padding-bottom: 0%;
 }
+.my-recipies{
+    font-size: 32px;
+    font-weight: 900;
+    
+}
+.recipies{
+    text-align: center;
+    padding-left: 28%;
+    padding-right: 28%;
+}
+.recipie-container{
+    display: flex;
+    margin-top: 2%;
+}
+.food1{
+    width: 40%;
+    padding-left: 80px;
+    padding-right: 50px;
+}
+.food1 img{
+    width: 100%;
+}
