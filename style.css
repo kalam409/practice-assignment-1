@@ -85,9 +85,17 @@ body{
 }
 .food1{
     width: 40%;
-    padding-left: 80px;
-    padding-right: 50px;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 100px rgb(202, 202, 202);
+    border-radius: 15px;
 }
 .food1 img{
-    width: 100%;
+    width: 90%;
+}
+.food{
+    margin: 5%;
+}
+.food-text{
+    margin: 5%;
 }
