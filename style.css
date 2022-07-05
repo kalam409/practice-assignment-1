@@ -98,4 +98,30 @@ body{
 }
 .food-text{
     margin: 5%;
+    color: black;
+}
+.recipie{
+    margin: 0%;
+}
+.followers{
+    display: flex;
+    width: 90%;
+    box-shadow: 10px 10px 100px rgb(202, 202, 202);
+    border-radius: 15px;
+    margin: 5%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.social-media{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.count{
+    font-size: 40px;
+    font-weight: 800;
+    margin: 0%;
+}
+.count-text{
+    margin: 0%;
+    font-size: 14px;
 }
